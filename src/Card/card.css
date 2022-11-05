@@ -1,0 +1,58 @@
+body{
+  background-color: #EFFAFE;
+  margin: 10;
+  
+}
+
+.tile{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 80%;
+  background-color: white;
+  margin: 0 0 2% 3%;
+  height:auto;
+}
+
+.tile:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.tileImg{
+  width:5%;
+  justify-content: center;
+}
+
+.tileContent{
+  padding-left: 10%;
+  padding-right: 100%;
+}
+
+.thumbnail{
+  padding-left: 20%;
+  padding-right: 10%;
+  /* padding-left: 30%; */ 
+}
+
+.comment{
+  width: 50ch;
+ border-radius: 2ch;
+ border-color: #63caef;
+ height: 3ch;
+}
+
+.titlehr{
+  width:100ch;
+}
+
+.cardhr{
+  width:100ch;
+  border-color: #9dcddf;
+  list-style-type: square;
+  opacity: 20%;
+}
+
+.thumbnailContent{
+  padding-left: 20%;
+  padding-right: 10%;
+  /* padding-left: 30%; */
+}

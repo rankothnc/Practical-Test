@@ -1,0 +1,52 @@
+.Product{
+    box-shadow: 0 1px 3px 1px rgba(128, 128, 128, 0.5);
+    width: 70%;
+    padding-left: 5%;
+    padding-top: 10%;
+    border-radius: 5%;
+    padding-right: 3%;
+    background-color: rgb(255, 255, 255);
+    justify-self: center;
+    height: 50ch;
+    border-radius: 5%;
+}
+
+.Heading{
+    align-items: center;
+    font-size: 100;
+    
+  }
+
+  .description{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 10;
+  }
+
+  .Img{
+    margin-left: 7rem;
+    border-radius: 50%;
+    width: 7rem;
+    height: 7rem;
+    background-color: #c9e1fa;
+    border: 5px solid white;
+    justify-items:right;
+    /* padding-right: 10%; */
+  }
+
+  .SubHeading{
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    margin: .5rem;
+    padding: 0;
+  }
+
+  .infor{
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    margin: .5rem;
+    padding: 0;
+  }
